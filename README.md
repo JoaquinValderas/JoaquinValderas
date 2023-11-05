@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Joaquin Custodio Valderas</h1>
-<h3 align="center">Un apasionado desarrollador del machine learning de España</h3>
+<h3 align="center">Un apasionado desarrollador de Software</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Inteligencia artificial**
 
